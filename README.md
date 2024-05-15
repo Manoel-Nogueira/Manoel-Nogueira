@@ -3,7 +3,7 @@
   <img height="screen" width="screen" align="center" alt="coding-time" src="code2.gif">
 </div>
 
-<h1 align="center">Hi, Manoel Here 🫡!</h1>
+<h1 align="center">Hi, Manoel Here 👋</h1>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Manoel-Nogueira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
