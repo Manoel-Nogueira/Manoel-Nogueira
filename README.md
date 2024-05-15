@@ -13,7 +13,6 @@
   <img align="center" height="30" width="70" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="70" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="70" alt="react-icon" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="70" alt="react-icon" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   
   <div>
     <h1></h1>
