@@ -1,4 +1,4 @@
-## Oi, Manoel Aqui!
+## Oi, Manoel Aqui :)!
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Manoel-Nogueira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -8,23 +8,17 @@
 <div> 
   <img height="200em" alt="coding-time" src="code.gif">
   <h1></h1>
-  <img align="center" height="30" width="70" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="70" alt="c-icon" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2">
+  <img align="center" height="30" width="70" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="center" height="30" width="70" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="70" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="70" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="70" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="70" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-
+  
   <div>
     <h1></h1>
-    <a href = "mailto:">
       <img height="30" width="30" src="gmail.svg">
-    </a>
-    <a href = "">
       <img height="30" width="30" src="linkedin.svg">
-    </a>
-    <a href = "">
       <img height="30" width="30" src="instagram.png">
-    </a>
   </div>
     
 </div>
