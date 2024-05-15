@@ -5,8 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-Nogueira&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
-<div> 
-  <img height="200em" alt="coding-time" src="code.gif">
+<div align="center"> 
+  <img height="full" width="full" alt="coding-time" src="code.gif">
   <h1></h1>
   <img align="center" height="30" width="70" alt="c-icon" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2">
   <img align="center" height="30" width="70" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
