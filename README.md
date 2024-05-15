@@ -1,4 +1,9 @@
-## Oi, Manoel Aqui :)!
+
+<div>
+  <img height="screen" width="screen" align="center" alt="coding-time" src="code2.gif">
+</div>
+
+<h1 align="center">Oi, Manoel Aqui :)!</h1>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Manoel-Nogueira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -6,7 +11,6 @@
 </div>
 
 <div align="center"> 
-  <img height="screen" width="screen" align="center" alt="coding-time" src="code2.gif">
   <h1></h1>
   <img align="center" height="30" width="70" alt="c-icon" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2">
   <img align="center" height="30" width="70" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
