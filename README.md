@@ -19,7 +19,7 @@
     <h1></h1>
       <img height="30" width="30" src="gmail.svg">
       <img height="30" width="30" src="linkedin.svg">
-      <img height="30" width="30" src="instagram.png">
+      <img height="30" width="30" src="instagram.svg">
       <img height="30" width="30" src="discord.svg">
   </div>
     
