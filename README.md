@@ -6,7 +6,7 @@
 </div>
 
 <div align="center"> 
-  <img height="full" width="full" alt="coding-time" src="code.gif">
+  <img height="screen" width="screen" align="center" alt="coding-time" src="code2.gif">
   <h1></h1>
   <img align="center" height="30" width="70" alt="c-icon" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2">
   <img align="center" height="30" width="70" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
