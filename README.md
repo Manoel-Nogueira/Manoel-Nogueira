@@ -20,10 +20,18 @@
   
   <div>
     <h1></h1>
-      <img height="30" width="31" src="gmail.svg">
-      <img height="30" width="26" src="linkedin.svg">
-      <img height="30" width="30" src="instagram.svg">
-      <img height="30" width="30" src="discord.svg">
+      <a href="mailto: work.nogueirafilho888@gmail.com" target="_blank">
+        <img height="30" width="31" src="gmail.svg">
+      </a>
+      <a>
+        <img height="30" width="26" src="linkedin.svg">
+      </a>
+      <a>
+        <img height="30" width="30" src="instagram.svg">
+      </a>
+      <a>
+        <img height="30" width="30" src="discord.svg">
+      </a>
   </div>
     
 </div>
