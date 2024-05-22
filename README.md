@@ -33,7 +33,10 @@
         <img height="30" width="30" src="discord.svg">
       </a>
   </div>
-    
 </div>
 
+<h1></h1>
+
 ![snake gif](https://github.com/Manoel-Nogueira/Manoel-Nogueira/blob/output/github-contribution-grid-snake-dark.svg)
+
+<h1></h1>
