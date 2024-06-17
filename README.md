@@ -1,6 +1,6 @@
 
 <div>
-  <img height="screen" width="screen" align="center" alt="coding-time" src="code2.gif">
+  <img height="screen" width="screen" align="center" alt="coding-time" src="code3.gif">
 </div>
 
 <br></br>
