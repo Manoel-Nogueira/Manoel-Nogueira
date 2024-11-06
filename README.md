@@ -27,7 +27,7 @@
     <img align="center" height="40" width="80" alt="react-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
     <img align="center" height="40" width="80" alt="java-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
     <img align="center" height="40" width="80" alt="mysql-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
-    <img align="center" height="40" width="80" alt="mint-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mint-Dark.svg">
+    <img align="center" height="40" width="80" alt="linux-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
     <img align="center" height="40" width="80" alt="windows-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg">
     <br></br>
     <h1></h1>
