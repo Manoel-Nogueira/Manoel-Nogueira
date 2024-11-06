@@ -21,17 +21,14 @@
     <h1></h1>
     <br></br>
     <img align="center" height="40" width="80" alt="c-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
-    <img align="center" height="0" width="0" alt="c-icon" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2">
     <img align="center" height="40" width="80" alt="html-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-    <img align="center" height="0" width="0" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
     <img align="center" height="40" width="80" alt="css-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-    <img align="center" height="0" width="0" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img align="center" height="40" width="80" alt="js-icon"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-    <img align="center" height="0" width="0" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="40" width="80" alt="react-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-    <img align="center" height="0" width="0" alt="react-icon" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" height="40" width="80" alt="java-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-    <img align="center" height="0" width="0" alt="java-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" height="40" width="80" alt="mysql-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+    <img align="center" height="40" width="80" alt="mint-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mint-Dark.svg">
+    <img align="center" height="40" width="80" alt="windows-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg">
     <br></br>
     <h1></h1>
     <br></br>
