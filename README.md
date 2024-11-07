@@ -42,7 +42,7 @@
   </div>
 </div>
 
-![snake gif](https://github.com/Manoel-Nogueira/Manoel-Nogueira/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/Manoel-Nogueira/Manoel-Nogueira/output/github-contribution-grid-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Manoel-Nogueira&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
