@@ -29,7 +29,6 @@
     <img align="center" height="40" width="80" alt="react-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
     <img align="center" height="40" width="80" alt="php-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
     <img align="center" height="40" width="80" alt="linux-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
-    <img align="center" height="40" width="80" alt="windows-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg">
     <br></br>
     <h1></h1>
     <br></br>
