@@ -1,4 +1,6 @@
-<h1 align="center">Hi, Manoel Here 👋</h1>
+<h1 align="center"> 
+  Hi visitor, i'm Manoel! 👋
+</h1>
 
 <div>
   <img height="screen" width="screen" align="center" alt="coding-time" src="code3.gif">
