@@ -29,7 +29,20 @@
 <h4>Database 🗃️:</h4>
 
   ![MySQL](https://img.shields.io/badge/MySQL-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  
+
+<h4>Tools 🛠️:</h4>
+
+  ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+  ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<h2>Connect with me 🤝:</h2>
+
+  <a href="mailto: nogueirafilho888@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-F23838?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/manoeln._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-D9298A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/invite/NwYHQuY3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 <!-- 
   <div> 
@@ -37,13 +50,14 @@
   </div>
 -->
 
+---
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Manoel-Nogueira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-Nogueira&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
-<br></br>
+---
 
 <!--
   <div align="center"> 
@@ -66,18 +80,8 @@
   </div>
 -->
 
-<div>
-  <a href="mailto: nogueirafilho888@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-F23838?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/manoeln._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-D9298A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/invite/NwYHQuY3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <h1></h1>  
-</div>
-
 
 ![Snake animation](https://raw.githubusercontent.com/Manoel-Nogueira/Manoel-Nogueira/output/github-contribution-grid-snake-dark.svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manoel-Nogueira&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<h1></h1>
+![Visitors](https://visit-count.vercel.app/api/count?id=Manoel-Nogueira&style=for-the-badge)
