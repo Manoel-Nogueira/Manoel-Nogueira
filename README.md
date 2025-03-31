@@ -4,7 +4,7 @@
   <img height="screen" width="screen" align="center" alt="coding-time" src="code3.gif">
 </div>
 
-<h1 align="center">Skills 🧠</h1>
+<h1 align="center">Skills 🧠:</h1>
 
 <h2>Currently learning 📚:</h2>
 
@@ -83,4 +83,4 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Manoel-Nogueira/Manoel-Nogueira/output/github-contribution-grid-snake-dark.svg)
 
-![Visitors](https://visit-count.vercel.app/api/count?id=Manoel-Nogueira&style=for-the-badge)
+---
