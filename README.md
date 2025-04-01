@@ -43,7 +43,7 @@
 
   <a href="mailto: nogueirafilho888@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-F23838?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/manoeln._" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-D9298A?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/manoeln._"><img src="https://img.shields.io/badge/-Instagram-D9298A?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://discord.com/invite/NwYHQuY3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <!-- 
