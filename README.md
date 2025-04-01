@@ -1,12 +1,12 @@
 <h1 align="center"> 
-  Hi visitor, i'm Manoel! 👋
+  Hi visitor, i'm Manoel! :wave:
 </h1>
 
 <div>
   <img height="screen" width="screen" align="center" alt="coding-time" src="code3.gif">
 </div>
 
-<h1 align="center">Skills 🧠:</h1>
+<h1 align="center">Skills :brain::</h1>
 
 <h2>Currently learning :books::</h2>
 
@@ -16,7 +16,7 @@
 
 <h2>I have experience <img align="center" height="40" width="40" src="https://i.imgur.com/43yJPqT.png">:</h2>
 
-<h4>Languages and Frameworks 👨‍💻:</h4>
+<h4>Languages and Frameworks :technologist::</h4>
 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,18 +28,18 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h4>Database 🗃️:</h4>
+<h4>Database :card_file_box::</h4>
 
   ![MySQL](https://img.shields.io/badge/MySQL-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h4>Tools 🛠️:</h4>
+<h4>Tools :hammer_and_wrench::</h4>
 
   ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
   ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h2>Connect with me 🤝:</h2>
+<h2>Connect with me :handshake::</h2>
 
   <a href="mailto: nogueirafilho888@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-F23838?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
