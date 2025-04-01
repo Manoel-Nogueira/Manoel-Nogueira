@@ -8,7 +8,7 @@
 
 <h1 align="center">Skills 🧠:</h1>
 
-<h2>Currently learning 📚:</h2>
+<h2>Currently learning :books::</h2>
 
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -55,8 +55,8 @@
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Manoel-Nogueira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-Nogueira&layout=compact&langs_count=16&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Manoel-Nogueira&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-Nogueira&layout=compact&langs_count=16&theme=jolly"/>
 </div>
 
 ---
@@ -86,3 +86,4 @@
 ![Snake animation](https://raw.githubusercontent.com/Manoel-Nogueira/Manoel-Nogueira/output/github-contribution-grid-snake-dark.svg)
 
 ---
+<img src = "https://komarev.com/ghpvc/?username=Manoel-Nogueira&label=Visitors&color=blueviolet&style=for-the-badge" alt = "Visitors">
