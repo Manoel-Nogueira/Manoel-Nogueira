@@ -2,8 +2,8 @@
   Hi visitor, i'm Manoel! :wave:
 </h1>
 
-<div>
-  <img height="screen" width="screen" align="center" alt="coding-time" src="code3.gif">
+<div align="center">
+  <img height="236" width="200" align="center" alt="Otter-transparent" src="Otter-transparent.png">
 </div>
 
 <h1 align="center">Skills :brain::</h1>
