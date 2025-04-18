@@ -6,13 +6,19 @@
   <img height="236" width="200" align="center" alt="otter" src="sprites/otter.png">
 </div>
 
-<h1 align="center">Skills :brain::</h1>
+<h1 align="center">
+  Skills: 
+  <img height="28" width="46" align="center" alt="skill 1" src="sprites/skills_1.png">
+  <img height="33" width="59" align="center" alt="skill 2" src="sprites/skills_2.png">
+  <img height="32" width="52" align="center" alt="skill 3" src="sprites/skills_3.png">
+</h1>
 
 <h2>Currently learning: <img height="32" width="36" align="center" alt="currently learning" src="sprites/currently_learning.png"> </h2>
 
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+  ![Julia](https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 <h2>I have experience: <img height="32" width="52" align="center" alt="have experience" src="sprites/have_experience.png"> </h2>
 
