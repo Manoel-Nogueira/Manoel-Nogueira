@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Hi visitor, i'm Manoel! :wave:
+  <img height="49" width="481" align="center" alt="title hi visitor.png" src="sprites/title_hi_visitor.png"> :wave:
 </h1>
 
 <div align="center">
@@ -7,14 +7,14 @@
 </div>
 
 <h1 align="center">
-  <img height="37" width="143" align="center" alt="skill 1" src="sprites/skills2.png">
+  <img height="37" width="143" align="center" alt="title skill" src="sprites/title_skills.png">
   <img height="28" width="46" align="center" alt="skill 1" src="sprites/skills_1.png">
   <img height="33" width="59" align="center" alt="skill 2" src="sprites/skills_2.png">
   <img height="32" width="52" align="center" alt="skill 3" src="sprites/skills_3.png">
 </h1>
 
 <h2>
-  <img height="27" width="309" align="center" alt="skill 1" src="sprites/title_currently_learning.png">
+  <img height="27" width="309" align="center" alt="title currently learning" src="sprites/title_currently_learning.png">
   <img height="32" width="36" align="center" alt="currently learning" src="sprites/currently_learning.png"> 
 </h2>
 
@@ -23,9 +23,15 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
   ![Julia](https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
-<h2>I have experience: <img height="32" width="52" align="center" alt="have experience" src="sprites/have_experience.png"> </h2>
+<h2>
+  <img height="27" width="309" align="center" alt="title i have experience" src="sprites/title_i_have_experience.png">
+  <img height="32" width="52" align="center" alt="have experience" src="sprites/have_experience.png"> 
+</h2>
 
-<h4>Languages and Frameworks: <img height="34" width="53" align="center" alt="languages and frameworks" src="sprites/languages_and_frameworks.png"> </h4>
+<h4>
+  <img height="18" width="319" align="center" alt="title languages and frameworks" src="sprites/title_languages_and_frameworks.png">
+  <img height="34" width="53" align="center" alt="languages and frameworks" src="sprites/languages_and_frameworks.png"> 
+</h4>
 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,18 +43,27 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h4>Database: <img height="34" width="58" align="center" alt="database" src="sprites/database_1.png"> </h4>
+<h4>
+  <img height="18" width="113" align="center" alt="title database" src="sprites/title_database.png">
+  <img height="34" width="58" align="center" alt="database" src="sprites/database_1.png"> 
+</h4>
 
   ![MySQL](https://img.shields.io/badge/MySQL-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h4>Tools: <img height="32" width="31" align="center" alt="tools" src="sprites/tools.png"> </h4> </h4>
+<h4>
+  <img height="18" width="72" align="center" alt="title tools" src="sprites/title_tools.png">
+  <img height="32" width="31" align="center" alt="tools" src="sprites/tools.png"> 
+</h4>
 
   ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
   ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h2>Connect with me: <img height="32" width="55" align="center" alt="connect with me" src="sprites/connect_with_me_1.png"> </h2>
+<h2>
+  <img height="27" width="309" align="center" alt="title connect with me" src="sprites/title_connect_with_me.png">
+  <img height="32" width="55" align="center" alt="connect with me" src="sprites/connect_with_me_1.png"> 
+</h2>
 
   <a href="mailto: nogueirafilho888@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-F23838?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
