@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img height="49" width="481" align="center" alt="title hi visitor.png" src="sprites/title_hi_visitor.png"> :wave:
+  <img height="49" width="481" align="center" alt="title hi visitor.png" src="sprites/title_hi_visitor.png">
 </h1>
 
 <div align="center">
