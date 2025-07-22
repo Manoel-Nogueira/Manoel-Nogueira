@@ -7,7 +7,9 @@
 </div>
 
 <h1 align="center">
+  <!-- 
   <img height="37" width="143" align="center" alt="title skill" src="sprites/title_skills.png">
+  -->
   <img height="28" width="46" align="center" alt="skill 1" src="sprites/skills_1.png">
   <img height="33" width="59" align="center" alt="skill 2" src="sprites/skills_2.png">
   <img height="32" width="52" align="center" alt="skill 3" src="sprites/skills_3.png">
