@@ -6,6 +6,8 @@
 
 ## Languages ​​and Technologies
 
+---
+
   <div align="center"> 
     <img align="center" height="45" width="44" alt="java-icon" title="Java" src="https://github.com/syvixor/skills-icons/blob/main/icons/java.svg">
     <img align="center" height="45" width="44" alt="spring-icon" title="Spring Boot" src="https://github.com/syvixor/skills-icons/blob/main/icons/springboot.svg">
@@ -49,13 +51,13 @@
 
 ## Connect with me
   <div>
-    <a href="mailto: nogueirafilho888@gmail.com" target="_blank" rel="noopener noreferrer">
+    <a href="mailto: nogueirafilho888@gmail.com">
       <img align="center" height="45" width="45" alt="gmail-icon" title="Gmail" src="https://github.com/syvixor/skills-icons/blob/main/icons/gmail.svg">
     </a>
-    <a href="https://www.linkedin.com/in/manoel-nogueira-3288b9361" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/manoel-nogueira-3288b9361">
       <img align="center" height="45" width="45" alt="linkedin-icon" title="Linkedin" src="https://github.com/syvixor/skills-icons/blob/main/icons/linkedin.svg">
     </a>
-    <a href="https://discord.com/invite/NwYHQuY3" target="_blank" rel="noopener noreferrer">
+    <a href="https://discord.com/invite/NwYHQuY3">
       <img align="center" height="45" width="45" alt="linkedin-icon" title="Linkedin" src="https://github.com/syvixor/skills-icons/blob/main/icons/discord.svg">
     </a>
   </div>
