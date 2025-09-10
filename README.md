@@ -7,23 +7,23 @@
 ## Languages ​​and Technologies
 
   <div align="center"> 
-    <img align="center" height="45" width="45" alt="java-icon" title="Java" src="https://github.com/syvixor/skills-icons/blob/main/icons/java.svg">
-    <img align="center" height="45" width="45" alt="spring-icon" title="Spring Boot" src="https://github.com/syvixor/skills-icons/blob/main/icons/springboot.svg">
-    <img align="center" height="45" width="45" alt="php-icon" title="PHP" src="https://github.com/syvixor/skills-icons/blob/main/icons/php.svg">
-    <img align="center" height="45" width="45" alt="laravel-icon" title="Laravel" src="https://github.com/syvixor/skills-icons/blob/main/icons/laravel.svg">
-    <img align="center" height="45" width="45" alt="c-icon" title="C" src="https://github.com/syvixor/skills-icons/blob/main/icons/c.svg">
-    <img align="center" height="45" width="45" alt="python-icon" title="Python" src="https://github.com/syvixor/skills-icons/blob/main/icons/python.svg">
-    <img align="center" height="45" width="45" alt="mysql-icon" title="MySQL" src="https://github.com/syvixor/skills-icons/blob/main/icons/mysql.svg">
-    <img align="center" height="45" width="45" alt="html-icon" title="HTML" src="https://github.com/syvixor/skills-icons/blob/main/icons/html.svg">
-    <img align="center" height="45" width="45" alt="js-icon" title="JavaScript" src="https://github.com/syvixor/skills-icons/blob/main/icons/javascript.svg">
-    <img align="center" height="45" width="45" alt="ts-icon" title="TypeScript" src="https://github.com/syvixor/skills-icons/blob/main/icons/typescript.svg">
-    <img align="center" height="45" width="45" alt="react-icon" title="React" src="https://github.com/syvixor/skills-icons/blob/main/icons/reactjs.svg">
-    <img align="center" height="45" width="45" alt="next.js-icon" title="Next.js" src="https://github.com/syvixor/skills-icons/blob/main/icons/nextjs.svg">
-    <img align="center" height="45" width="45" alt="css-icon" title="CSS" src="https://github.com/syvixor/skills-icons/blob/main/icons/css.svg">
-    <img align="center" height="45" width="45" alt="tailwindcss-icon" title="Tailwind CSS" src="https://github.com/syvixor/skills-icons/blob/main/icons/tailwindcss.svg">
-    <img align="center" height="45" width="45" alt="git-icon" title="Git" src="https://github.com/syvixor/skills-icons/blob/main/icons/git.svg">
-    <img align="center" height="45" width="45" alt="github" title="GitHub" src="https://github.com/syvixor/skills-icons/blob/main/icons/github.svg">
-    <img align="center" height="45" width="45" alt="insomnia-icon" title="Insomnia" src="https://github.com/syvixor/skills-icons/blob/main/icons/insomnia.svg">
+    <img align="center" height="45" width="44" alt="java-icon" title="Java" src="https://github.com/syvixor/skills-icons/blob/main/icons/java.svg">
+    <img align="center" height="45" width="44" alt="spring-icon" title="Spring Boot" src="https://github.com/syvixor/skills-icons/blob/main/icons/springboot.svg">
+    <img align="center" height="45" width="44" alt="php-icon" title="PHP" src="https://github.com/syvixor/skills-icons/blob/main/icons/php.svg">
+    <img align="center" height="45" width="44" alt="laravel-icon" title="Laravel" src="https://github.com/syvixor/skills-icons/blob/main/icons/laravel.svg">
+    <img align="center" height="45" width="44" alt="c-icon" title="C" src="https://github.com/syvixor/skills-icons/blob/main/icons/c.svg">
+    <img align="center" height="45" width="44" alt="python-icon" title="Python" src="https://github.com/syvixor/skills-icons/blob/main/icons/python.svg">
+    <img align="center" height="45" width="44" alt="mysql-icon" title="MySQL" src="https://github.com/syvixor/skills-icons/blob/main/icons/mysql.svg">
+    <img align="center" height="45" width="44" alt="html-icon" title="HTML" src="https://github.com/syvixor/skills-icons/blob/main/icons/html.svg">
+    <img align="center" height="45" width="44" alt="js-icon" title="JavaScript" src="https://github.com/syvixor/skills-icons/blob/main/icons/javascript.svg">
+    <img align="center" height="45" width="44" alt="ts-icon" title="TypeScript" src="https://github.com/syvixor/skills-icons/blob/main/icons/typescript.svg">
+    <img align="center" height="45" width="44" alt="react-icon" title="React" src="https://github.com/syvixor/skills-icons/blob/main/icons/reactjs.svg">
+    <img align="center" height="45" width="44" alt="next.js-icon" title="Next.js" src="https://github.com/syvixor/skills-icons/blob/main/icons/nextjs.svg">
+    <img align="center" height="45" width="44" alt="css-icon" title="CSS" src="https://github.com/syvixor/skills-icons/blob/main/icons/css.svg">
+    <img align="center" height="45" width="44" alt="tailwindcss-icon" title="Tailwind CSS" src="https://github.com/syvixor/skills-icons/blob/main/icons/tailwindcss.svg">
+    <img align="center" height="45" width="44" alt="git-icon" title="Git" src="https://github.com/syvixor/skills-icons/blob/main/icons/git.svg">
+    <img align="center" height="45" width="44" alt="github" title="GitHub" src="https://github.com/syvixor/skills-icons/blob/main/icons/github.svg">
+    <img align="center" height="45" width="44" alt="insomnia-icon" title="Insomnia" src="https://github.com/syvixor/skills-icons/blob/main/icons/insomnia.svg">
   </div>
 
 <!-- 
