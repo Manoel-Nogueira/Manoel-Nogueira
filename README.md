@@ -1,12 +1,16 @@
+# Manoel Nogueira
 
-<img 
-  height="236" 
-  width="200" 
-  align="center" 
-  alt="otter" 
-  src="sprites/otter.png"
-/>
-  **Manoel Nogueira**
+**`Desenvolvedor Full Stack`**
+
+<div align="center">
+  <img 
+    height="236" 
+    width="200" 
+    align="center" 
+    alt="otter" 
+    src="sprites/otter.png"
+  />
+</div>
 
 ### 📖🚀 Languages ​​and Technologies
 
@@ -154,42 +158,10 @@
 ---
 
 <div align="center">
-  
-  <a href=https://github.com/syvixor/skills-icons/blob/main/icons/gmail.svg >
-    <img 
-      src="https://github.com/syvixor/skills-icons/blob/main/icons/gmail.svg" 
-      alt="gmail-icon" 
-      align="center" 
-      height="45" 
-      width="44" 
-      title="Gmail"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/manoel-nogueira-3288b9361" target="_blank">
-    <img 
-      src="https://github.com/syvixor/skills-icons/blob/main/icons/linkedin.svg" 
-      alt="linkedin-icon" 
-      align="center" 
-      height="45" 
-      width="44" 
-      title="Linkedin"
-    />
-  </a>
-  
-  <a href="https://discord.com/invite/NwYHQuY3" target="_blank">
-    <img 
-      src="https://github.com/syvixor/skills-icons/blob/main/icons/discord.svg" 
-      alt="discord-icon" 
-      align="center" 
-      height="45" 
-      width="44" 
-      title="Discord"
-    />
-  </a>
-  
+  <a href="mailto: nogueirafilho888@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/syvixor/skills-icons/blob/main/icons/gmail.svg" height="45" width="44" title="Gmail"></a>
+  <a href="https://www.linkedin.com/in/manoel-nogueira-3288b9361" target="_blank" rel="noopener noreferrer"><img src="https://github.com/syvixor/skills-icons/blob/main/icons/linkedin.svg" height="45" width="44" title="Linkedin"></a>
+  <a href="https://discord.com/invite/NwYHQuY3" target="_blank" rel="noopener noreferrer"><img src="https://github.com/syvixor/skills-icons/blob/main/icons/discord.svg" height="45" width="44" title="Discord"></a>
 </div>
-
 
 ---
 
