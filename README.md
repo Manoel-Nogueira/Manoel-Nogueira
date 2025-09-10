@@ -1,10 +1,16 @@
 
-<div align="left">
-  <img height="236" width="200" align="center" alt="otter" src="sprites/otter.png">
-  <h1 style="vertical-align: middle">Manoel Nogueira</h1> 
-</div>
+<img 
+  height="236" 
+  width="200" 
+  align="center" 
+  alt="otter" 
+  src="sprites/otter.png"
+/>
+  **Manoel Nogueira**
 
-## 📖🚀 Languages ​​and Technologies
+### 📖🚀 Languages ​​and Technologies
+
+---
 
 <img 
   align="center" 
@@ -143,24 +149,56 @@
   src="https://github.com/syvixor/skills-icons/blob/main/icons/insomnia.svg"
 />
 
-## Connect with me
-
-  <a href="mailto: nogueirafilho888@gmail.com">
-    <img align="center" height="45" width="44" alt="gmail-icon" title="Gmail" src="https://github.com/syvixor/skills-icons/blob/main/icons/gmail.svg">
-  </a>
-  <a href="https://www.linkedin.com/in/manoel-nogueira-3288b9361">
-    <img align="center" height="45" width="44" alt="linkedin-icon" title="Linkedin" src="https://github.com/syvixor/skills-icons/blob/main/icons/linkedin.svg">
-  </a>
-  <a href="https://discord.com/invite/NwYHQuY3">
-    <img align="center" height="45" width="44" alt="linkedin-icon" title="Linkedin" src="https://github.com/syvixor/skills-icons/blob/main/icons/discord.svg">
-  </a>
+### 🤝🔗 Connect with me
 
 ---
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Manoel-Nogueira&show_icons=true&theme=jolly&include_all_commits=false&count_private=false"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-Nogueira&layout=compact&langs_count=16&theme=jolly"/>
-  </div>
+<div align="center">
+  
+  <a href=https://github.com/syvixor/skills-icons/blob/main/icons/gmail.svg >
+    <img 
+      src="https://github.com/syvixor/skills-icons/blob/main/icons/gmail.svg" 
+      alt="gmail-icon" 
+      align="center" 
+      height="45" 
+      width="44" 
+      title="Gmail"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/manoel-nogueira-3288b9361" target="_blank">
+    <img 
+      src="https://github.com/syvixor/skills-icons/blob/main/icons/linkedin.svg" 
+      alt="linkedin-icon" 
+      align="center" 
+      height="45" 
+      width="44" 
+      title="Linkedin"
+    />
+  </a>
+  
+  <a href="https://discord.com/invite/NwYHQuY3" target="_blank">
+    <img 
+      src="https://github.com/syvixor/skills-icons/blob/main/icons/discord.svg" 
+      alt="discord-icon" 
+      align="center" 
+      height="45" 
+      width="44" 
+      title="Discord"
+    />
+  </a>
+  
+</div>
+
+
+---
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Manoel-Nogueira&show_icons=true&theme=jolly&include_all_commits=false&count_private=false"
+/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-Nogueira&layout=compact&langs_count=16&theme=jolly"
+/>
 
 ---
 
@@ -168,7 +206,10 @@
 
 ---
 
-<img src = "https://komarev.com/ghpvc/?username=Manoel-Nogueira&label=Visitors&color=blueviolet&style=for-the-badge" alt = "Visitors">
+<img 
+  src="https://komarev.com/ghpvc/?username=Manoel-Nogueira&label=Visitors&color=blueviolet&style=for-the-badge" 
+  alt="Visitors"
+/>
 
 <!-- 
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
