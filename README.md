@@ -1,25 +1,26 @@
-<h1 align="center"> 
-  <img height="49" width="481" align="center" alt="title hi visitor.png" src="sprites/title_hi_visitor.png">
-</h1>
 
-<div align="center">
+<div align="left">
   <img height="236" width="200" align="center" alt="otter" src="sprites/otter.png">
+  <h1 style="vertical-align: middle">Manoel Nogueira</h1> 
 </div>
 
-<h1 align="center">
-  <!-- 
-  <img height="37" width="143" align="center" alt="title skill" src="sprites/title_skills.png">
-  -->
-  <img height="28" width="46" align="center" alt="skill 1" src="sprites/skills_1.png">
-  <img height="33" width="59" align="center" alt="skill 2" src="sprites/skills_2.png">
-  <img height="32" width="52" align="center" alt="skill 3" src="sprites/skills_3.png">
-</h1>
+## Languages ​​and Technologies
 
-<h2>
-  <img height="27" width="309" align="center" alt="title currently learning" src="sprites/title_currently_learning.png">
-  <img height="32" width="36" align="center" alt="currently learning" src="sprites/currently_learning.png"> 
-</h2>
+  <div align="center"> 
+    <img align="center" height="40" width="45" alt="c-icon" title="C" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
+    <img align="center" height="40" width="45" alt="java-icon" title="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+    <img align="center" height="40" width="45" alt="java-icon" title="Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+    <img align="center" height="40" width="45" alt="mysql-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+    <img align="center" height="40" width="45" alt="html-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+    <img align="center" height="40" width="45" alt="css-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+    <img align="center" height="40" width="45" alt="js-icon"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+    <img align="center" height="40" width="45" alt="react-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+    <img align="center" height="40" width="45" alt="php-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
+    <img align="center" height="40" width="45" alt="linux-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
+    <h1></h1>
+  </div>
 
+  
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -62,11 +63,14 @@
   ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h2>
-  <img height="27" width="309" align="center" alt="title connect with me" src="sprites/title_connect_with_me.png">
-  <img height="32" width="55" align="center" alt="connect with me" src="sprites/connect_with_me_1.png"> 
-</h2>
+<!-- 
+  <h2>
+    <img height="27" width="309" align="center" alt="title connect with me" src="sprites/title_connect_with_me.png">
+    <img height="32" width="55" align="center" alt="connect with me" src="sprites/connect_with_me_1.png"> 
+  </h2>
+-->
 
+## Connect with me
   <a href="mailto: nogueirafilho888@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-F23838?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/manoel-nogueira-3288b9361" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/manoeln._" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-D9298A?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -87,26 +91,6 @@
 
 ---
 
-<!--
-  <div align="center"> 
-    <div> 
-      <h1></h1>
-      <br></br>
-      <img align="center" height="40" width="80" alt="c-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
-      <img align="center" height="40" width="80" alt="java-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-      <img align="center" height="40" width="80" alt="mysql-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
-      <img align="center" height="40" width="80" alt="html-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-      <img align="center" height="40" width="80" alt="css-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-      <img align="center" height="40" width="80" alt="js-icon"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-      <img align="center" height="40" width="80" alt="react-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-      <img align="center" height="40" width="80" alt="php-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
-      <img align="center" height="40" width="80" alt="linux-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
-      <br></br>
-      <h1></h1>
-      <br></br>
-    </div>
-  </div>
--->
 
 
 ![Snake animation](https://raw.githubusercontent.com/Manoel-Nogueira/Manoel-Nogueira/output/github-contribution-grid-snake-dark.svg)
