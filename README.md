@@ -177,15 +177,6 @@
   alt="GitHub Stats"
 />
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/Manoel-Nogueira/Manoel-Nogueira/output/github-contribution-grid-snake-dark.svg)
