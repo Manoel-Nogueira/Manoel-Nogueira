@@ -163,14 +163,28 @@
   <a href="https://discord.com/invite/NwYHQuY3" target="_blank" rel="noopener noreferrer"><img src="https://github.com/syvixor/skills-icons/blob/main/icons/discord.svg" height="45" width="44" title="Discord"></a>
 </div>
 
+### 📊 Statistics
 ---
 
 <img 
+  align="center"
   src="https://github-readme-stats.vercel.app/api?username=Manoel-Nogueira&show_icons=true&theme=jolly&include_all_commits=false&count_private=false"
+  alt="GitHub Stats"
 />
-<img 
+<img
+  align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-Nogueira&layout=compact&langs_count=16&theme=jolly"
+  alt="GitHub Stats"
 />
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
