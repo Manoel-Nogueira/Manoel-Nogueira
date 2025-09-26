@@ -1,6 +1,6 @@
 # Manoel Nogueira
 
-**`Desenvolvedor Full Stack`**
+**`Full Stack Developer`**
 
 <div align="center">
   
