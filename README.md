@@ -58,8 +58,8 @@
   <img align="center" src="https://raw.githubusercontent.com/Manoel-Nogueira/Manoel-Nogueira/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </div>
 
----
 <!-- 
+  ---
   <img src="https://komarev.com/ghpvc/?username=Manoel-Nogueira&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitors"/>
 -->
 
