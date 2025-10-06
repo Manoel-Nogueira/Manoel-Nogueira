@@ -59,8 +59,9 @@
 </div>
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=Manoel-Nogueira&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitors"/>
+<!-- 
+  <img src="https://komarev.com/ghpvc/?username=Manoel-Nogueira&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitors"/>
+-->
 
 <!-- 
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
