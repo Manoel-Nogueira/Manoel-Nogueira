@@ -47,15 +47,15 @@
 ---
 
 <div align="center">
-  <img align="center"src="https://github-readme-stats.vercel.app/api?username=Manoel-Nogueira&show_icons=true&theme=jolly&include_all_commits=false&count_private=false"alt="GitHub Stats"/>
-  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-Nogueira&layout=compact&langs_count=16&theme=jolly"alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manoel-Nogueira&show_icons=true&theme=jolly&include_all_commits=false&count_private=false"alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-Nogueira&layout=compact&langs_count=16&theme=jolly"alt="GitHub Stats"/>
 </div>
 
 
 ---
 
 <div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/Manoel-Nogueira/Manoel-Nogueira/output/github-contribution-grid-snake-dark.svg)
+  <img align="center" src="https://raw.githubusercontent.com/Manoel-Nogueira/Manoel-Nogueira/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </div>
 
 ---
