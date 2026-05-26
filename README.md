@@ -1,6 +1,6 @@
 # Manoel Nogueira
 
-**`Full Stack Developer`**
+**`DBA and Full Stack Developer`**
 
 <div align="center">
   <img height="236" width="200" align="center" alt="otter" src="sprites/otter.png"/>
